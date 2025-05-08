@@ -24,7 +24,6 @@ This VM comes pre-configured with the following deliberately vulnerable web appl
 
 ---
 
-
 ## 🔍 How to Find the IP Address
 
 1. Login with the default credentials.
@@ -39,7 +38,7 @@ This VM comes pre-configured with the following deliberately vulnerable web appl
 
 Once the VM is running and connected to your network via DHCP, access the web applications using your browser:
 
-
+---
 ### 🖥️ **System Requirements**
 
 
