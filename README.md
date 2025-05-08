@@ -37,6 +37,10 @@ This VM comes pre-configured with the following deliberately vulnerable web appl
 ## 🌐 Access URLs
 
 Once the VM is running and connected to your network via DHCP, access the web applications using your browser:
+http://<ip_address>/muti/
+http://<ip_address>/dvwa/
+http://<ip_address>/wordpress/
+Replace `<ip_address>` with the actual IP address of the VM
 
 ---
 ### 🖥️ **System Requirements**
