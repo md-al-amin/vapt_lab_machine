@@ -1,15 +1,33 @@
-🔒 Vulnerable OS for VAPT Practice
-This custom-built vulnerable virtual machine is based on Q4OS and designed for Vulnerability Assessment and Penetration Testing (VAPT) practice. It requires only 512MB RAM, making it lightweight and ideal for resource-constrained environments.
+# 🔐 Vulnerable OS for VAPT Practice
 
-🛠️ Pre-configured with:
+A lightweight vulnerable OS built on **Q4OS** with just **512MB RAM**, crafted for hands-on **Vulnerability Assessment and Penetration Testing (VAPT)** practice.
 
-DVWA (Damn Vulnerable Web Application)
+## 📦 Included Applications
 
-Mutillidae II
+- [DVWA (Damn Vulnerable Web Application)](http://www.dvwa.co.uk/)
+- [Mutillidae II](https://owasp.org/www-project-mutillidae-ii/)
+- [WordPress](https://wordpress.org/) with known vulnerabilities
 
-WordPress with known vulnerabilities
+## 🧪 Purpose
 
-This environment is perfect for cybersecurity learners and ethical hackers who want a safe space to sharpen their skills in web exploitation, misconfiguration analysis, and general penetration testing techniques.
+This VM is intended for:
 
-Disclaimer: For educational and ethical use only. Do not use in unauthorized environments.
+- Practicing common web application attacks (XSS, SQLi, CSRF, etc.)
+- Testing vulnerability scanners
+- Learning secure and insecure configurations
+- Ethical hacking skill development in a safe, isolated environment
 
+## ⚙️ System Requirements
+
+- **Base OS**: Q4OS  
+- **RAM**: 512MB  
+- **Storage**: ~5GB recommended  
+- **Network**: NAT or Host-Only (recommended for isolation)
+
+## 🚨 Disclaimer
+
+> This virtual machine is for **educational and ethical** use only. Do **not** deploy or use this in unauthorized environments. The creator is not responsible for any misuse.
+
+---
+
+Feel free to fork, clone, and customize. Contributions and suggestions are welcome!
