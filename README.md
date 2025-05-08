@@ -34,7 +34,7 @@ http://<ip_address>/dvwa/
 http://<ip_address>/wordpress/
 
 Replace <ip_address> with the actual IP address of the VM.
-
+---
 ## 🔍 How to Find the IP Address
 
 1. Login with the default credentials.
