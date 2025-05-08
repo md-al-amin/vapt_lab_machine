@@ -8,7 +8,7 @@ A lightweight, intentionally vulnerable virtual machine based on **Q4OS**, creat
 
 🗂️ Download the zipped virtual machine file from the link below:
 
-👉 **[Download Vulnerable OS (Google Drive)](https://drive.google.com/file/d/1X-RqxZDHLDzkJRFGaEEI5W6osvhiwate/view?usp=sharing)**
+👉 **[Download Vulnerable OS (Google Drive)](https://drive.google.com/file/d/1SIC09YglCb_SWPb2n9BPBn-AOJvIQUWU/view?usp=drive_link)**
 
 After downloading, extract the archive and import it into your virtualization platform (e.g., VirtualBox or VMware).
 
@@ -48,7 +48,7 @@ Replace <ip_address> with the actual IP address of the VM.
 
 ### 🖥️ **System Requirements**
 
-```markdown
+
 ## 🖥️ System Requirements
 
 | **Component**     | **Requirement**           |
